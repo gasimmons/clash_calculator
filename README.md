@@ -1,0 +1,5 @@
+Clash Royale is a game I have played for fun, on and off, over the course of many years. I never really kept track of meta decks or thought too hard while playing the game beyond my own strategy.
+
+Recently I have seen clips of pros playing the game and I found it to be a completely different game, and as I have gained more trophies I have found myself needing to think more and more like they do. I would say that two largest things I wanted to work on was predicting which deck the opponent was playing based on how they opened up, and also learning to figure out what an opponents elixir and current hand looked like.
+
+But again I only play this game recreationally, I do not necessarily care to devote hours practicing for something I only do for fun, so I decided why not create a site that you can upload what cards the opponent uses and it will predict the deck (Assuming it is a metadeck, which is not always the case, especially at lower levels), and to keep track of the opponents card cycle and elixir count, which can be done rather easily with a queue like data structure
